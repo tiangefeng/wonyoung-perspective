@@ -1,4 +1,4 @@
-# Jung Wonyoung 장원영 张元英 Perspective Skill — Wonyoung Mindset Framework
+# 🍀 Jung Wonyoung 장원영 张元英 Perspective Skill — Wonyoung Mindset Framework
 
 
 ### wonyoung-perspective是什么？
