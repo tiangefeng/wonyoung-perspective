@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.tar.gz
+*.zip
+
+# Testing & workspace
+wonyoung-workspace/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment
+.env
+.env.local
+
+# Misc
+.claude/
+node_modules/
