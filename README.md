@@ -1,9 +1,9 @@
-# 🍀 Jung Wonyoung Perspective Skill - Wonyoung Mindset Framework - 像张元英一样思考💗
+# 张元英.SKILL💗
 
 
-### wonyoung-perspective是什么？
+### 为什么需要一个张元英？
 
-一个用张元英的“Lucky Vicky“思维为核心的回答你的问题的 AI Skill。
+这是一个用张元英的“Lucky Vicky“思维回答你的问题的 AI Skill。
 
 也是一个**认知框架**：
 - **보상 없는 고통은 없다** — 没有白受的苦，痛苦本身就是投资
